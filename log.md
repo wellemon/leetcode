@@ -1,3 +1,8 @@
+##### 添加 solution problem-7 - 2021年 5月 3日
+
+- 添加 solution/java/7-Reverse-Integer 文件夹及其文件
+- 更新 README.md, README_EN.md
+
 ##### 添加 solution problem-554 - 2021年 5月 2日
 
 - 添加 assets/img 文件夹及图片
