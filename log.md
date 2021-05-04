@@ -1,3 +1,7 @@
+##### 添加 solution problem-1473 - 2021年 5月 4日
+
+- 添加 solution/java/1473-Paint-House-3 文件夹及其文件
+
 ##### 添加 solution problem-7 - 2021年 5月 3日
 
 - 添加 solution/java/7-Reverse-Integer 文件夹及其文件
