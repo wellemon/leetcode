@@ -1,3 +1,7 @@
+##### 添加 solution problem-740- 2021年 5月 5日
+
+- 添加 solution/java/0740-Delete-and-Earn 文件夹及其文件
+
 ##### 添加 solution problem-1473 - 2021年 5月 4日
 
 - 添加 solution/java/1473-Paint-House-3 文件夹及其文件
