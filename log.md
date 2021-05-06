@@ -1,3 +1,7 @@
+##### 添加 solution problem-1720- 2021年 5月 6日
+
+- 添加 solution/java/1720-Decode-XORed-Array 文件夹及其文件
+
 ##### 添加 solution problem-740- 2021年 5月 5日
 
 - 添加 solution/java/0740-Delete-and-Earn 文件夹及其文件
