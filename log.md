@@ -1,3 +1,7 @@
+##### 添加 solution problem-1720- 2021年 5月 7日
+
+- 添加 solution/java/1486-XOR-Operation-in-an-Array 文件夹及其文件
+
 ##### 添加 solution problem-1720- 2021年 5月 6日
 
 - 添加 solution/java/1720-Decode-XORed-Array 文件夹及其文件

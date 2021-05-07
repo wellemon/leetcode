@@ -16,6 +16,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [1473](https://leetcode-cn.com/problems/paint-house-iii/) | [1473. Paint House III](./solution/java/1473-Paint-House-3/Solution.java) | Dynamic Programming | Hard |
 | [740](https://leetcode-cn.com/problems/delete-and-earn/) | [Delete and Earn](./solution/java/0740-Delete-and-Earn/Solution.java) | Dynamic Programming | Medium |
 | [1720](https://leetcode-cn.com/problems/decode-xored-array/) | [Decode XORed Array](./solution/java/1720-Decode-XORed-Array/Solution.java) | Bit Manipulation | Easy |
+| [1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](./solution/java/1486-XOR-Operation-in-an-Array/Solution.java) | Bit Manipulation | Easy |
 
 ## License
 
