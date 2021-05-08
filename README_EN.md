@@ -17,6 +17,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [740](https://leetcode-cn.com/problems/delete-and-earn/) | [Delete and Earn](./solution/java/0740-Delete-and-Earn/Solution.java) | Dynamic Programming | Medium |
 | [1720](https://leetcode-cn.com/problems/decode-xored-array/) | [Decode XORed Array](./solution/java/1720-Decode-XORed-Array/Solution.java) | Bit Manipulation | Easy |
 | [1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](./solution/java/1486-XOR-Operation-in-an-Array/Solution.java) | Bit Manipulation | Easy |
+| [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [Find Minimum Time to Finish All Jobs](./solution/java/1723-Find-Minimum-Time-to-Finish-All-Jobs/Solution.java) | Recursion, Backtracking | Hard |
 
 ## License
 
