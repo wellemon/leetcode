@@ -1,3 +1,7 @@
+##### 添加 solution problem-1482- 2021年 5月 9日
+
+- 添加 solution/java/1482-Minimum-Number-of-Days-to-Make-m-Bouquets 文件夹及其文件
+
 ##### 添加 solution problem-1723- 2021年 5月 8日
 
 - 添加 solution/java/1723-Find-Minimum-Time-to-Finish-All-Jobs 文件夹及其文件
