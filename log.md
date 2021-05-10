@@ -1,3 +1,7 @@
+##### 添加 solution problem-872- 2021年 5月 10日
+
+- 添加 solution/java/872-Leaf-Similar-Trees 文件夹及其文件
+
 ##### 添加 solution problem-1482- 2021年 5月 9日
 
 - 添加 solution/java/1482-Minimum-Number-of-Days-to-Make-m-Bouquets 文件夹及其文件
