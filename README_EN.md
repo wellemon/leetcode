@@ -20,6 +20,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [Find Minimum Time to Finish All Jobs](./solution/java/1723-Find-Minimum-Time-to-Finish-All-Jobs/Solution.java) | Recursion, Backtracking | Hard |
 | [1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Minimum Number of Days to Make m Bouquets](./solution/java/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java) | Binary Search | Medium |
 | [872](https://leetcode-cn.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](./solution/java/0872-Leaf-Similar-Trees/Solution.java) | Tree, Depth-first Search | Easy |
+| [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](./solution/java/1734-Decode-XORed-Permutation/Solution.java) | Bit Manipulation | Medium |
 
 ## License
 

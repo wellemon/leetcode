@@ -1,24 +1,28 @@
-##### 添加 solution problem-872- 2021年 5月 10日
+##### 添加 solution problem-1723 - 2021年 5月 11日
+
+- 添加 solution/java/1734-Decode-XORed-Permutation 文件夹及其文件
+
+##### 添加 solution problem-872 - 2021年 5月 10日
 
 - 添加 solution/java/872-Leaf-Similar-Trees 文件夹及其文件
 
-##### 添加 solution problem-1482- 2021年 5月 9日
+##### 添加 solution problem-1482 - 2021年 5月 9日
 
 - 添加 solution/java/1482-Minimum-Number-of-Days-to-Make-m-Bouquets 文件夹及其文件
 
-##### 添加 solution problem-1723- 2021年 5月 8日
+##### 添加 solution problem-1723 - 2021年 5月 8日
 
 - 添加 solution/java/1723-Find-Minimum-Time-to-Finish-All-Jobs 文件夹及其文件
 
-##### 添加 solution problem-1486- 2021年 5月 7日
+##### 添加 solution problem-1486 - 2021年 5月 7日
 
 - 添加 solution/java/1486-XOR-Operation-in-an-Array 文件夹及其文件
 
-##### 添加 solution problem-1720- 2021年 5月 6日
+##### 添加 solution problem-1720 - 2021年 5月 6日
 
 - 添加 solution/java/1720-Decode-XORed-Array 文件夹及其文件
 
-##### 添加 solution problem-740- 2021年 5月 5日
+##### 添加 solution problem-740 - 2021年 5月 5日
 
 - 添加 solution/java/0740-Delete-and-Earn 文件夹及其文件
 
