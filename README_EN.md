@@ -21,6 +21,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Minimum Number of Days to Make m Bouquets](./solution/java/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java) | Binary Search | Medium |
 | [872](https://leetcode-cn.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](./solution/java/0872-Leaf-Similar-Trees/Solution.java) | Tree, Depth-first Search | Easy |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](./solution/java/1734-Decode-XORed-Permutation/Solution.java) | Bit Manipulation | Medium |
+| [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](./solution/java/1310-XOR-Queries-of-a-Subarray/Solution.java) | Bit Manipulation | Medium |
 
 ## License
 

@@ -1,3 +1,7 @@
+##### 添加 solution problem-1310 - 2021年 5月 12日
+
+- 添加 solution/java/1310-XOR-Queries-of-a-Subarray 文件夹及其文件
+
 ##### 添加 solution problem-1723 - 2021年 5月 11日
 
 - 添加 solution/java/1734-Decode-XORed-Permutation 文件夹及其文件
