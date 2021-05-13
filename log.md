@@ -1,3 +1,7 @@
+##### 添加 solution problem-1269- 2021年 5月 13日
+
+- 添加 solution/java/1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps 文件夹及其文件
+
 ##### 添加 solution problem-1310 - 2021年 5月 12日
 
 - 添加 solution/java/1310-XOR-Queries-of-a-Subarray 文件夹及其文件

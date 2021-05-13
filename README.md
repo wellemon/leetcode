@@ -24,6 +24,7 @@
 | [872](https://leetcode-cn.com/problems/leaf-similar-trees/)  | [Leaf-Similar Trees](./solution/java/0872-Leaf-Similar-Trees/Solution.java) | Tree, Depth-first Search                              | 简单 |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](./solution/java/1734-Decode-XORed-Permutation/Solution.java) | Bit Manipulation                                      | 中等 |
 | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](./solution/java/1310-XOR-Queries-of-a-Subarray/Solution.java) | Bit Manipulation                                      | 中等 |
+| [1269](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](./solution/java/1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps/Solution.java) | Dynamic Programming                                   | 困难 |
 
 ## 许可证
 
