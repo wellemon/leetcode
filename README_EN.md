@@ -23,7 +23,8 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](./solution/java/1734-Decode-XORed-Permutation/Solution.java) | Bit Manipulation | Medium |
 | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](./solution/java/1310-XOR-Queries-of-a-Subarray/Solution.java) | Bit Manipulation | Medium |
 | [1269](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](./solution/java/1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps/Solution.java) | Dynamic Programming | Hard |
-| [12](https://leetcode-cn.com/problems/integer-to-roman/) | [Integer to Roman](./solution/java/0012-Integer-to-Roman/Solution.java) | Math, String | Easy |
+| [12](https://leetcode-cn.com/problems/integer-to-roman/) | [Integer to Roman](./solution/java/0012-Integer-to-Roman/Solution.java) | Math, String | Medium |
+| [13](https://leetcode-cn.com/problems/roman-to-integer/) | [Roman to Integer](./solution/java/0013-Roman-to-Integer/Solution.java) | Math, String | Easy |
 
 ## License
 
