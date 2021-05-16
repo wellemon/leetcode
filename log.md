@@ -1,3 +1,7 @@
+##### 添加 solution problem-0421 - 2021年 5月 16日
+
+- 添加 solution/java/0421-Maximum-XOR-of-Two-Numbers-in-an-Array 文件夹及其文件
+
 ##### 添加 solution problem-0013 - 2021年 5月 15日
 
 - 添加 solution/java/0013-Roman-to-Integer 文件夹及其文件
