@@ -28,6 +28,7 @@
 | [12](https://leetcode-cn.com/problems/integer-to-roman/)     | [Integer to Roman](./solution/java/0012-Integer-to-Roman/Solution.java) | Math, String                                          | 中等 |
 | [13](https://leetcode-cn.com/problems/roman-to-integer/)     | [Roman to Integer](./solution/java/0013-Roman-to-Integer/Solution.java) | Math, String                                          | 简单 |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](./solution/java/0421-Maximum-XOR-of-Two-Numbers-in-an-Array/Solution.java) | Bit Manipulation                                      | 中等 |
+| [993](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Cousins in Binary Tree](./solution/java/0993-Cousins-in-Binary-Tree/Solution.java) | Tree, Breadth-first Search                            | 简单 |
 
 ## 许可证
 

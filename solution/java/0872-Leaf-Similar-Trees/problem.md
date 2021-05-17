@@ -4,7 +4,7 @@
 
 Consider all the leaves of a binary tree, from left to right order, the values of those leaves form a **leaf value sequence**.
 
-![tree](../../../assets/img/872-tree.png)
+![tree](../../../assets/img/q872-tree.png)
 
 For example, in the given tree above, the leaf value sequence is `(6, 7, 4, 9, 8)`.
 
@@ -14,7 +14,7 @@ Return `true` if and only if the two given trees with head nodes `root1` and `ro
 
 **Example 1:**
 
-![leaf-similar-1](../../../assets/img/872-leaf-similar-1.jpg)
+![leaf-similar-1](../../../assets/img/q872-leaf-similar-1.jpg)
 
 > **Input:** root1 = [3,5,1,6,2,9,8,null,null,7,4], root2 = [3,5,1,6,7,4,2,null,null,null,null,null,null,9,8]
 >
@@ -40,7 +40,7 @@ Return `true` if and only if the two given trees with head nodes `root1` and `ro
 
 **Example 5:**
 
-![leaf-similar-2](../../../assets/img/872-leaf-similar-2.jpg)
+![leaf-similar-2](../../../assets/img/q872-leaf-similar-2.jpg)
 
 > **Input:** root1 = [1,2,3], root2 = [1,3,2]
 >
