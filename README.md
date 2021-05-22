@@ -29,6 +29,11 @@
 | [13](https://leetcode-cn.com/problems/roman-to-integer/)     | [Roman to Integer](./solution/java/0013-Roman-to-Integer/Solution.java) | Math, String                                          | 简单 |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](./solution/java/0421-Maximum-XOR-of-Two-Numbers-in-an-Array/Solution.java) | Bit Manipulation                                      | 中等 |
 | [993](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Cousins in Binary Tree](./solution/java/0993-Cousins-in-Binary-Tree/Solution.java) | Tree, Breadth-first Search                            | 简单 |
+| [1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](./solution/java/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/Solution.java) | Bit Manipulation                                      | 中等 |
+| [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](./solution/java/1738-Find-Kth-Largest-XOR-Coordinate-Value/Solution.java) | Bit Manipulation                                      | 中等 |
+| [692](https://leetcode-cn.com/problems/top-k-frequent-words/) | [Top K Frequent Words](./solution/java/0692-Top-K-Frequent-Words/Solution.java) | Hash Table                                            | 中等 |
+| [1035](https://leetcode-cn.com/problems/uncrossed-lines/)    | [Uncrossed Lines](./solution/java/1035-Uncrossed-Lines/Solution.java) | Dynamic Programming                                   | 中等 |
+| [810](https://leetcode-cn.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](./solution/java/0810-Chalkboard-XOR-Game/Solution.java) | Math                                                  | 困难 |
 
 ## 许可证
 
