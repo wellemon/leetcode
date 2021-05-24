@@ -33,6 +33,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [1035](https://leetcode-cn.com/problems/uncrossed-lines/)    | [Uncrossed Lines](./solution/java/1035-Uncrossed-Lines/Solution.java) | Dynamic Programming                                   | Medium     |
 | [810](https://leetcode-cn.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](./solution/java/0810-Chalkboard-XOR-Game/Solution.java) | Math                                                  | Hard |
 | [1707](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | [Maximum XOR With an Element From Array](./solution/java/1707-Maximum-XOR-With-an-Element-From-Array/Solution.java) | Bit Manipulation, Tried-Tree | Hard |
+| [664](https://leetcode-cn.com/problems/strange-printer/) | [Strange Printer](./solution/java/0664-Strange-Printer/Solution.java) | Dynamic Programming | Hard |
 
 ## License
 
