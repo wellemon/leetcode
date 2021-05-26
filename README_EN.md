@@ -34,6 +34,7 @@ recode  [leetcode](https://leetcode-cn.com/u/wellemon/) dairy question
 | [810](https://leetcode-cn.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](./solution/java/0810-Chalkboard-XOR-Game/Solution.java) | Math                                                  | Hard |
 | [1707](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | [Maximum XOR With an Element From Array](./solution/java/1707-Maximum-XOR-With-an-Element-From-Array/Solution.java) | Bit Manipulation, Tried-Tree | Hard |
 | [664](https://leetcode-cn.com/problems/strange-printer/) | [Strange Printer](./solution/java/0664-Strange-Printer/Solution.java) | Dynamic Programming | Hard |
+| [1190](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](./solution/java/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/Solution.java) | Stack | Medium |
 
 ## License
 
